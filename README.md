@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jakub Miśkiewicz
-- 👀 I’m interested in DevOps and System Integration
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jakub Miśkiewicz! Welcome to my DevOps journey.
+- 👀 Passionate about all things DevOps and System Integration, I thrive on creating seamless software delivery pipelines and orchestrating efficient systems.
+- 🌱 Currently diving deeper into Kubernetes, microservices architecture, and enhancing my automation skills.
+- 💞️ I’m enthusiastic about collaborating on projects that push the boundaries of continuous integration, automated testing, and infrastructure as code.
